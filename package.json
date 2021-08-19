@@ -1,0 +1,28 @@
+{
+  "name": "english-for-kids",
+  "version": "1.0.0",
+  "description": "english-for-kids",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^6.3.2",
+    "css-loader": "^5.0.1",
+    "eslint": "^7.14.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "file-loader": "^6.2.0",
+    "html-webpack-plugin": "^4.5.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.9.0",
+    "webpack-cli": "^4.2.0"
+  },
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RamanNovikau",
+  "license": "ISC"
+}

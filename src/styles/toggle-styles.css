@@ -1,0 +1,35 @@
+.play-color {
+  color: #778747;
+  border-color: #778747;
+}
+
+.play-color td {
+  color: #778747;
+  border-color: #778747;
+}
+
+.play-color th {
+  background-color: #b8da96;
+  border-color: #778747;
+}
+
+.play-background {
+  background-color: #b8da96;
+}
+
+.hiden-menu-play {
+  background: #b8da96;
+  color: #778747;
+}
+
+.button-span-play {
+  background: #778747;
+}
+
+.card-img-play {
+  border-color: #778747;
+}
+
+.hide {
+  display: none;
+}
